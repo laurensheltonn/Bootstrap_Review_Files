@@ -53,9 +53,15 @@ color: #1ebba3;
 }
 .caption h3 {
     font-size: 2rem;
-    text-shadow: .1rem .1rem .5rem black:
+    text-shadow: .1rem .1rem .5rem black;
+    padding-bottom: 1.6rem;
 }
-
+.btn-lg {
+    border-width: medium;
+    border-radius: 0;
+    padding: .6rem 1.3rem;
+    font-size: 1.1rem;
+}
 
 
 
