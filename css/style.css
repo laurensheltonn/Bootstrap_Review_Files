@@ -33,7 +33,7 @@ color: #1ebba3;
 /*--- Landing Page ---*/
 
 .home-inner {
-    background-image:url(img/computers.png) ;
+    background-image:url(../img/computers.png) ;
 }
 .caption {
     width: 100%; 
