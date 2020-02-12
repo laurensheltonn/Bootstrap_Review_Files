@@ -40,7 +40,8 @@ color: #1ebba3;
 /*--- Landing Page ---*/
 
 .home-inner {
-    background-image:url(../img/computers.png);
+    background-image:url(../img/208225.jpg);
+}
 .caption {
     width: 100%; 
     max-width: 100%;
@@ -87,12 +88,12 @@ color: #1ebba3;
     padding: .6rem 1.2rem;
     margin: 1rem;
     color: white;
-    background-color: #1ebba3;
-    border-color: #1ebba3;
+    background-color: #a589b3;
+    border-color:  #a589b3;
 }
 .btn-secondary:hover {
-    background-color: #189582;
-    border-color: #189582;
+    background-color:  black;
+    border-color: black;
 }
 
 /*--- Features Section ---*/
@@ -111,11 +112,11 @@ h3.heading {
 .heading-underline {
     width: 3rem;
     height: .2rem;
-    background-color: #1ebba3;
+    background-color:  black;
     margin: 0 auto 2rem;
 }
 .feature svg.svg-inline--fa {
-    color: #1ebba3;
+    color:  #a589b3;
 }
 .feature h3 {
     font-size: 1.3rem;
@@ -151,11 +152,11 @@ h3.heading {
     border-radius: 50%;
 }
 blockquote .svg-inline--fa {
-    color: #1ebba3;
+    color: #a589b3;
     margin: 1rem;
 }
 .clients-hr {
-    border-top: .05rem solid #1ebba3;
+    border-top: .05rem solid #a589b3;
 }
 
 /*---Contact Section---*/
@@ -178,7 +179,7 @@ footer svg.svg-inline--fa {
     margin: 1.2rem .5rem 0 0;
 }
 footer svg.svg-inline--fa:hover {
-    color: #1ebba3!important;
+    color: #a589b3!important;
 }
 hr.socket {
     width: 100%;
